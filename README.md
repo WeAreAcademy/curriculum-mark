@@ -1,4 +1,6 @@
 # The Mark
 
-- [[Imperative programming with JavaScript]]
-
+- [[Practical problem-solving]]
+- [[Tools of the trade]]
+- [[Functional programming and the front-end]]
+- [[Object-oriented programming and the back-end]]
