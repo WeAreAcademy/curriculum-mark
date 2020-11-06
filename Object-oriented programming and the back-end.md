@@ -1,16 +1,9 @@
 # OOP and the back-end
-
-## Classes and inheritance
-- [[Explain the motivation for classes]]
-- [[Declare a class in JavaScript]]
-- [[Use `constructor` in a JavaScript class]]
-- [[Explain the role of `this` in a JavaScript `constructor`]]
-- [[Add prototype methods to a JavaScript class]]
-- [[Use and explain `this` in a JavaScript prototype method]]
-- [[Add static methods to a JavaScript class]]
-- [[Use and explain `this` inside a JavaScript static method]]
-- [[Implement a child class using `extends` in JavaScript]]
-- [[Call a parent class method in a class method using `super` in JavaScript]]
+## Basic HTTP
+- [[Explain the request-response model]]
+- [[Identify the semantics of HTTP request verbs]]
+- [[Interpret the semantics of an HTTP request to a given endpoint]]
+- [[Interpret the semantics of common HTTP response status codes]]
 
 ## SQL and data modelling
 References:
@@ -29,11 +22,31 @@ References:
 - [[Model a 1:M relationship between entities]]
 - [[Model a M:M relationship between entities]]
 
+
+## Node.js, Express and SQL
+- [[Write 'raw' SQL in Node.js with Postgres.js]]
+- [[Write a CRUD API with Express and Postgres.js]]
+- [[Write endpoint tests with `supertest`]]
+
+## Object-Oriented Programming
+- [[Explain the motivation for classes]]
+- [[Declare a class in TypeScript]]
+- [[Use `constructor` in a TypeScript class]]
+- [[Explain the role of `this` in a TypeScript `constructor`]]
+- [[Add prototype methods to a TypeScript class]]
+- [[Use and explain `this` in a TypeScript prototype method]]
+- [[Add static methods to a TypeScript class]]
+- [[Use and explain `this` inside a TypeScript static method]]
+- [[Implement a child class using `extends` in TypeScript]]
+- [[Use getters and setters in a TypeScript class]]
+- [[Distinguish between private, public and protected methods]]
+- [[Call a parent class method in a class method using `super` in TypeScript]]
+
 ## ORMs
+- [[Create an entity with TypeORM]]
+- [[Implement the ActiveRecord pattern in TypeORM]]
+- [[Write model tests for TypeORM models]]
 
-
-## HTTP methods
-
-## Unit tests and integration tests
-
-## Node.js and Express
+## Authentication and Security
+- [[Use `bcrypt` to encrypt data]]
+- [[Authenticate users through JWT]]
