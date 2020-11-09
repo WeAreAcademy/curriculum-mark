@@ -11,6 +11,8 @@ We are open-sourcing this curriculum under [CC BY-SA 4.0](https://creativecommon
 ## Getting started
 This repository mostly contains markdown files which are intended to be opened by as an [Obsidian vault](https://obsidian.md/) (which provides a nice graph interface over the plain markdown files).
 
+(It is written in [Obsidian-flavoured markdown](https://obsidian.md/features) - `[[` syntax indicates internal backlinks that are navigable when opened in Obsidian.)
+
 **1. Clone repository / download files**
 If you are familiar with Git:
 ```bash
@@ -23,6 +25,10 @@ Otherwise, download a `.zip` file from the drop-down under the *Code* heading of
 See the [Obsidian website](https://obsidian.md/) for instructions.
 
 **3. Open the repository via Obsidian**
+There are two suggested modes of navigation:
+
+1. Via graph view - `Option + <click>` to navigate to a node of interest
+2. From this `README.md` - `Cmd + <click>` to navigate to a linked page of interest
 
 
 ## Core Modules
