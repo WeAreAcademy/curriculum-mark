@@ -37,3 +37,4 @@ There are two suggested modes of navigation:
 - [[Functional programming and the front-end]]
 - [[Object-oriented programming and the back-end]]
 - [[Workplace simulation]]
+- [[Bite-sized bonuses]]
