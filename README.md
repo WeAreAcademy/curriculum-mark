@@ -8,6 +8,9 @@ We are open-sourcing this curriculum under [CC BY-SA 4.0](https://creativecommon
 - Usage, with attribution, of our materials
 - Contributions and feedback
 
+![](graph-view.png?raw=true)
+[Video: graph structure of our curriculum](https://www.loom.com/share/3106d6740b624831b49813343e82275c?sharedAppSource=personal_library)
+
 ## Getting started
 This repository mostly contains markdown files which are intended to be opened by as an [Obsidian vault](https://obsidian.md/) (which provides a nice graph interface over the plain markdown files).
 
