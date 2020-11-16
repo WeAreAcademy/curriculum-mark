@@ -1,9 +1,4 @@
 # Practical problem-solving
-
-## Themes
-- [[How do we solve problems？]]
-- [[How do we improve our solutions？]]
-
 ## Contents
 - [[Pseudocode and whiteboarding]]
 - [[Imperative programming with JavaScript]]
@@ -12,4 +7,4 @@
 - [[Refactoring]]
 - [[Search and sort algorithms]]
 
-Tags: #OutcomeMap, #ActivityMap
+Tags: #OutcomeMap
