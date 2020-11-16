@@ -6,3 +6,5 @@
 - [[Open a pull request for a GitHub branch]]
 - [[Merge a GitHub pull request]]
 - [[Handle a git merge conflict]]
+
+Tags: #OutcomeMap

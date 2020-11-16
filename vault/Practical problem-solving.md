@@ -12,3 +12,4 @@
 - [[Refactoring]]
 - [[Search and sort algorithms]]
 
+Tags: #OutcomeMap, #ActivityMap

@@ -7,3 +7,5 @@
 - [[Write tests using NodeJS `assert` in JavaScript]]
 - [[Write tests using `pytest` with Python]]
 - [[Write tests using `jest` with JavaScript]]
+
+Tags: #OutcomeMap

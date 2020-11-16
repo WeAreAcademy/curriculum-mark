@@ -10,3 +10,5 @@
 - [[Style guides and linting]]
 - [[Git and GitHub]]
 - [[Documentation]]
+
+Tags: #OutcomeMap, #ActivityMap 

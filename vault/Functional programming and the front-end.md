@@ -11,7 +11,7 @@
 - [[How can I transform data into UI？]]
 - [[How can I make UI a function of state？]]
 
-### APIs
+### CRUD Web Apps
 - [[How can I use external data in my frontend？]]
 - [[How can I presist data through an API？]]
 - [[How do I test my frontend app？]]
@@ -25,3 +25,4 @@
 - [[State and side effects]]
 - [[Frontend testing]]
 
+Tags: #OutcomeMap, #ActivityMap 

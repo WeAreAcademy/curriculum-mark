@@ -5,3 +5,5 @@
 - [[`checkout` a previous git commit]]
 - [[Create a new git `branch`]]
 - [[`merge` one git branch into another]]
+
+Tags: #OutcomeMap
