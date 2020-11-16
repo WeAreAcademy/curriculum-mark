@@ -4,4 +4,3 @@
 - [[Methods and functions in JavaScript]]
 - [[Control flow in JavaScript]]
 - [[Modules in JavaScript]]
-- [[Practical problem-solving]]
