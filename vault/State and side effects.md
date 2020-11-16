@@ -6,3 +6,5 @@
 - [[Implement a side-effect with the `useEffect` React hook]]
 - [[Fetch data from an API and render in in a React app]]
 - [[Translate between promise chaining and `async` `await` syntax]]
+
+Tags: #OutcomeMap

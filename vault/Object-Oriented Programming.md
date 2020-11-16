@@ -12,3 +12,5 @@
 - [[Use getters and setters in a TypeScript class]]
 - [[Distinguish between private, public and protected methods]]
 - [[Call a parent class method in a class method using `super` in TypeScript]]
+
+Tags: #OutcomeMap 

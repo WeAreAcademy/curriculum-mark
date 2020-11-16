@@ -5,4 +5,5 @@
 - [[Implement bubble sort in both Python and JavaScript]]
 - [[Implement merge sort in both Python and JavaScript]]
 - [[Implement insertion sort in both Python and JavaScript]]
-- 
+
+Tags: #OutcomeMap

@@ -8,3 +8,5 @@
 - [[Pass and use React children elements in a function component]]
 - [[Pass event handlers to HTML elements in React]]
 - [[Pass event handlers down between components in React]]
+
+Tags: #OutcomeMap

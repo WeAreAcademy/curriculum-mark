@@ -4,3 +4,5 @@
 - [[Use basic operators in JavaScript]]
 - [[Use variable declaration and assignment in JavaScript]]
 - [[Manipulate collections in JavaScript]]
+
+Tags: #OutcomeMap

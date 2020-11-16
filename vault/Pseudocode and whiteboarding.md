@@ -7,3 +7,5 @@
 - [[Design a recursive algorithm]]
 - [[Implement pseudocode in Python]]
 - [[Implement pseudocode in JavaScript]]
+
+Tags: #OutcomeMap
