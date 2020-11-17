@@ -6,6 +6,7 @@ The Outcome Map maps from Modules to Learning Outcomes, through intermediate sta
 - To include Learning Outcomes as end nodes, set the filter to  `#OutcomeMap OR #LearningOutcome`.
 
 ## Modules
+- [[Imperative programming]]
 - [[Practical problem-solving]]
 - [[Tools of the trade]]
 - [[Declarative programming on the front-end]]

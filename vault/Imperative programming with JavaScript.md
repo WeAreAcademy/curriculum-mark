@@ -1,4 +1,4 @@
-# Imperative Programming with JavaScript
+# Imperative programming with JavaScript
 
 - [[Values and expressions in JavaScript]]
 - [[Methods and functions in JavaScript]]

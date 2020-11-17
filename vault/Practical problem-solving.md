@@ -6,7 +6,7 @@
 
 ## Contents
 - [[Pseudocode and whiteboarding]]
-- [[Abstracting imperative programming]]
+- [[Imperative programming with JavaScript]]
 - [[Assertions and testing]]
 - [[Debugging]]
 - [[Refactoring]]
