@@ -1,9 +1,9 @@
 # Search and sort algorithms
 
-- [[Implement linear search in both Python and JavaScript]]
-- [[Implement binary search in both Python and JavaScript]]
-- [[Implement bubble sort in both Python and JavaScript]]
-- [[Implement merge sort in both Python and JavaScript]]
-- [[Implement insertion sort in both Python and JavaScript]]
+- [[Implement linear search in a given programming language]]
+- [[Implement binary search in a given programming language]]
+- [[Implement bubble sort in a given programming language]]
+- [[Implement merge sort in a given programming language]]
+- [[Implement insertion sort in a given programmming language]]
 
 Tags: #OutcomeMap

@@ -9,7 +9,7 @@ Your task is to improve the rigour of our tests by:
 - writing tests for these edge cases.
 
 ### Learning outcomes
-[[Identify useful test cases]]
-[[Descriptively name tests]]
+- [[Identify useful test cases]]
+- [[Descriptively name tests]]
 
 Tags: #Activity, #Challenge, #Exercise
