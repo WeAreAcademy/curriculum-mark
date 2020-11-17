@@ -40,3 +40,6 @@ There are two suggested modes of navigation:
 There are two ways of navigating through this:
 - [[Outcome Map]]: a time-agnostic structure
 - [[Activity Map]]: a weekly structure
+
+## Prerequisites
+A basic fluency with imperative programming in Python is assumed.
