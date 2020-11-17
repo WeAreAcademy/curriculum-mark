@@ -2,9 +2,11 @@
 The Activity Map maps from Weeks to Activities (and ultimately Learning Outcomes), through intermediate staging posts (that you might think of as 'themes').
 
 ## Navigation
-- To show the Activity Map in Obsidian graph view, filter by tag: `#ActivityMap`.
-- To include Challenges as end nodes, set the filter to  `#ActivityMap OR #Challenge`.
-- To see how Challenges connect to Learning Oucomes, set the filter to `#ActivityMap OR #Challenge OR #LearningOutcome`
+*`#` ommitted from below tags to avoid attaching them to this note itself*
+
+- To show the Activity Map in Obsidian graph view, filter by tag: `ActivityMap`.
+- To include Challenges as end nodes, set the filter to  `ActivityMap OR Challenge`.
+- To see how Challenges connect to Learning Oucomes, set the filter to `ActivityMap OR Challenge OR LearningOutcome`
 
 ## Phase One
 **The Mark: Phase One** is part-time, over 4 weeks.
