@@ -1,5 +1,7 @@
 # Activity Map
 
+This is a (work-in-progress) schedule of themes and modules covered across the 12 weeks of The Mark: Phase Two.
+
 | Week number | Module | Theme |
 | --- | --- | --- |
 | 1 | [[Practical problem-solving]] | [[How to think like a software engineer]] |
@@ -11,5 +13,6 @@
 | 7 | [[Object-oriented programming and the back-end]] | [[How to create a RESTful API]] |
 | 8 | [[Object-oriented programming and the back-end]] | [[How to use an ORM]] |
 | 9-10 | [[Workplace simulation]] | [[How to operate in a workplace]] |
+| 11-12 | Workplace ramp-up |  |
 
 Tags: #ActivityMap 
