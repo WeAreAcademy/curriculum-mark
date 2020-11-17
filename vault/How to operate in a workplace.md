@@ -1,3 +1,6 @@
+# How to operate in a workplace
+
+## Themes
 - [[How do I navigate a large codebase？]]
 - [[How do I complete a ticket？]]
 - [[How do I work with senior engineers？]]
