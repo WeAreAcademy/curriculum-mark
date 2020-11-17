@@ -2,8 +2,10 @@
 The Outcome Map maps from Modules to Learning Outcomes, through intermediate staging posts (that you might think of as 'topics').
 
 ## Navigation
-- To show the Outcome Map in Obsidian graph view, filter by tag: `#OutcomeMap`.
-- To include Learning Outcomes as end nodes, set the filter to  `#OutcomeMap OR #LearningOutcome`.
+*`#` ommitted from below tags to avoid attaching them to this note itself*
+
+- To show the Outcome Map in Obsidian graph view, filter by tag: `OutcomeMap`.
+- To include Learning Outcomes as end nodes, set the filter to  `OutcomeMap OR LearningOutcome`.
 
 ## Modules
 - [[Imperative programming]]
