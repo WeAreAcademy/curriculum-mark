@@ -43,6 +43,7 @@ This repository contains:
 | --- | --- | --- |
 | **[[Outcome Map]]** | a graph of time-unbounded modules to learning outcomes (via topics and sub-topics) | `$OutcomeMap OR $LearningOutcome` |
 | **[[Activity Map]]** | a graph of time-bounded weekly themes to learning outcomes (via sub-themes and challenges) | `$ActivityMap OR $Challenge OR $LearningOutcome` |
+
 *\*Substitute `#` for `$` in the filters. We avoid using `#` here to avoid attaching these tags to this note itself.*
 
 These both will (or, should) ultimately encompass the same learning outcomes, although presented differently - e.g. a given outcome appears only once in the [[Outcome Map]], but may appear several times (and under different themes) in the [[Activity Map]].
