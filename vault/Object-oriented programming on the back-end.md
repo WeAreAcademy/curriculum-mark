@@ -1,4 +1,8 @@
-# OOP and the back-end
+# OOP on the back-end
+
+**Goals**
+- build and deploy a RESTful web server with database
+- understand the fundamentals of object-oriented programming
 
 ## Content
 - [[Basic HTTP]]

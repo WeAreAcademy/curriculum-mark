@@ -8,8 +8,8 @@ The Outcome Map maps from Modules to Learning Outcomes, through intermediate sta
 ## Modules
 - [[Practical problem-solving]]
 - [[Tools of the trade]]
-- [[Functional programming and the front-end]]
-- [[Object-oriented programming and the back-end]]
+- [[Declarative programming on the front-end]]
+- [[Object-oriented programming on the back-end]]
 - [[Workplace simulation]]
 - [[Bite-sized bonuses]]
 
