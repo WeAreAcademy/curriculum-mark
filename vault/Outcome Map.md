@@ -1,11 +1,11 @@
 # Outcome Map
-The Outcome Map maps from Modules to Learning Outcomes, through intermediate staging posts (that you might think of as 'topics').
+The Outcome is a graph of time-unbounded modules to learning outcomes (via topics and sub-topics).
 
 ## Navigation
-*`#` ommitted from below tags to avoid attaching them to this note itself*
+*Substitute `#` for `$` in the below filters. We avoid using `#` here to avoid attaching these tags to this note itself.*
 
-- To show the Outcome Map in Obsidian graph view, filter by tag: `OutcomeMap`.
-- To include Learning Outcomes as end nodes, set the filter to  `OutcomeMap OR LearningOutcome`.
+- To show the Outcome Map in Obsidian graph view, filter by tag: `$OutcomeMap`.
+- To include Learning Outcomes as end nodes, set the filter to  `$OutcomeMap OR $LearningOutcome`.
 
 ## Modules
 - [[Imperative programming]]
