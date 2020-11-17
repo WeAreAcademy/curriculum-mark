@@ -36,11 +36,20 @@ There are two suggested modes of navigation:
 1. Via graph view - `Option + <click>` to navigate to a node of interest
 2. From this `README.md` - `Cmd + <click>` to navigate to a linked page of interest
 
+## Contents
+This repository contains:
+
+| Map name | Description | Suggested filter when viewing graph* |
+| --- | --- | --- |
+| **[[Outcome Map]]** | a graph of time-unbounded modules to learning outcomes (via topics and sub-topics) | `$OutcomeMap OR $LearningOutcome` |
+| **[[Activity Map]]** | a graph of time-bounded weekly themes to learning outcomes (via sub-themes and challenges) | `$ActivityMap OR $Challenge OR $LearningOutcome` |
+*\*Substitute `#` for `$` in the filters. We avoid using `#` here to avoid attaching these tags to this note itself.*
+
+These both will (or, should) ultimately encompass the same learning outcomes, although presented differently - e.g. a given outcome appears only once in the [[Outcome Map]], but may appear several times (and under different themes) in the [[Activity Map]].
+
 ## Roadmap
 ### Current status
-This is currently being used for internal planning and development. It has not yet been optimised for consumption by an external audience.
-
-At the moment, it is mostly a map from time-unbounded modules to learning outcomes (the [[Outcome Map]]), although it is being supplemented by a map from time-bounded themes to activities (the [[Activity Map]]). *Neither of these maps are complete.*
+This is currently being used for internal planning and development. It has not yet been optimised for consumption by an external audience. Neither the [[Outcome Map]] nor the [[Activity Map]] are, in any fashion, complete.
 
 This map is constructed through Markdown files with unique titles and Obsidian internal links. These Markdown files don't (currently) have much content or purpose other than to link to other Markdown files (and thus create the graph structure).
 
