@@ -1,2 +1,3 @@
 
-Tags: #ActivityMap, #Question, #Theme
+
+Tags: #ActivityMap, #Theme
