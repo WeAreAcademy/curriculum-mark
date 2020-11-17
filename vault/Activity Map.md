@@ -1,4 +1,11 @@
 # Activity Map
+The Activity Map maps from Modules to Learning Outcomes, through intermediate staging posts (that you might think of as 'topics').
+
+## Navigation
+- To show the Activity Map in Obsidian graph view, filter by tag: `#ActivityMap`.
+- To include Challenges as end nodes, set the filter to  `#ActivityMap OR #Challenge`.
+- To see how Challenges connect to Learning Oucomes, set the filter to `#ActivityMap OR #Challenge OR #LearningOutcome`
+
 
 This is a (work-in-progress) schedule of themes and modules covered across the 12 weeks of The Mark: Phase Two.
 
