@@ -2,7 +2,7 @@
 
 ## Activities
 - [[Problem interpretation]]
-- [[Linear search ]]
+- [[Linear search]]
 - [[Binary search]]
 - [[Bubble sort]]
 - [[Merge sort]]
