@@ -1,6 +1,6 @@
 # The Mark
 
-This repository maps out the curriculum for **The Mark**, the accelerated 12-week training phase of Academy's two-year programme.
+This repository maps out the curriculum for **The Mark**, the pre-employment 16-week training phase of Academy's two-year programme.
 
 We’re making a high-impact career in technology more accessible than ever before, unleashing the potential of those who deserve to go further, faster.
 
@@ -40,6 +40,3 @@ There are two suggested modes of navigation:
 There are two ways of navigating through this:
 - [[Outcome Map]]: a time-agnostic structure
 - [[Activity Map]]: a weekly structure
-
-## Prerequisites
-A basic fluency with imperative programming in Python is assumed.
