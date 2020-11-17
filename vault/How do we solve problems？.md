@@ -9,4 +9,4 @@
 - [[Anticipating edge cases]]
 - [[Iterative and recursive conversion]]
 
-Tags: #ActivityMap, #Question, #Theme
+Tags: #ActivityMap, #Theme

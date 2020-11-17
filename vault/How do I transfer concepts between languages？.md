@@ -3,4 +3,7 @@
 ## Activities
 - [[Match the pseudocode]]
 - [[Match the code output]]
+- [[Value vs reference equality bugs]]
+- [[Translate between languages]]
 
+Tags: #ActivityMap, #Theme 
