@@ -26,7 +26,11 @@ Our goal is to get someone to that initial position, where they are ready to lea
 - **Prepared to learn more.** They'll have built up concepts, vocabulary and skills in full-stack, functional and OO development.
 - **Prepared for reality.** They'll have done a *lot* of Googling, testing and debugging.
 
-[Video: graph structure of our curriculum](https://www.loom.com/share/3106d6740b624831b49813343e82275c?sharedAppSource=personal_library)
+At that point, we think that they'll be ready to join a team - and _continue learning_. 
+- If they're an Academy Scholar, they'll continue on in [The Track](https://www.notion.so/Graduate-Programme-Building-early-career-tech-leaders-fd95d2f498814a50af004ce7279f63c7), 21 months of employment, coaching and mentoring.
+- If they're not an Academy Scholar, they'll be able to continue to learn if given the right supportive platform and environment.
+
+[Video: graph structure of our curriculum](https://www.loom.com/share/3106d6740b624831b49813343e82275c?sharedAppSource=personal_library) (outdated, but gives rough overview)
 
 ## Getting started
 This repository mostly contains markdown files which are intended to be opened by as an [Obsidian vault](https://obsidian.md/) (which provides a nice graph interface over the plain markdown files).
@@ -51,7 +55,7 @@ See the [Obsidian website](https://obsidian.md/) for instructions.
 There are two suggested modes of navigation:
 
 1. Via graph view - `Option + <click>` to navigate to a node of interest
-2. From this `README.md` - `Cmd + <click>` to navigate to a linked page of interest
+2. Via note view - `Cmd + <click>` to navigate to a linked page of interest
 
 ## Usage
 This repository contains:
