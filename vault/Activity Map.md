@@ -12,21 +12,21 @@ The Activity Map is a graph of time-bounded weekly themes to learning outcomes (
 **The Mark: Phase One** is part-time, over 4 weeks.
 
 ## Phase Two
-**The Mark: Phase Two** is full-time, over 12 weeks.
+**The Mark: Phase Two** is full-time, from week 5-16.
 
-This is a (work-in-progress) schedule of themes and modules covered across the 12 weeks of The Mark: Phase Two.
+This is a (work-in-progress) schedule of themes and modules covered in the Phase.
 
 | Week number | Module | Theme |
 | --- | --- | --- |
-| 1 | [[Practical problem-solving]] | [[How to think like a software engineer]] |
-| 2 | [[Tools of the trade]] | [[How to use key workflows and tools]] |
-| 3 | [[Declarative programming on the front-end]] | [[How to work with frontend components]] |
-| 4 | [[Declarative programming on the front-end]] | [[How to use functional programming on the frontend]] |
-| 5 | [[Declarative programming on the front-end]] | [[How to create a frontend for a CRUD app]] |
-| 6 | [[Object-oriented programming on the back-end]] | [[How to perform CRUD operations on a database]] |
-| 7 | [[Object-oriented programming on the back-end]] | [[How to create a RESTful API]] |
-| 8 | [[Object-oriented programming on the back-end]] | [[How to use an ORM]] |
-| 9-10 | [[Workplace simulation]] | [[How to operate in a workplace]] |
-| 11-12 | Workplace ramp-up |  |
+| 5 | [[Practical problem-solving]] | [[How to think like a software engineer]] |
+| 6 | [[Tools of the trade]] | [[How to use key workflows and tools]] |
+| 7 | [[Declarative programming on the front-end]] | [[How to work with frontend components]] |
+| 8 | [[Declarative programming on the front-end]] | [[How to use functional programming on the frontend]] |
+| 9 | [[Declarative programming on the front-end]] | [[How to create a frontend for a CRUD app]] |
+| 10 | [[Object-oriented programming on the back-end]] | [[How to perform CRUD operations on a database]] |
+| 11 | [[Object-oriented programming on the back-end]] | [[How to create a RESTful API]] |
+| 12 | [[Object-oriented programming on the back-end]] | [[How to use an ORM]] |
+| 13-14 | [[Workplace simulation]] | [[How to operate in a workplace]] |
+| 15-16 | Workplace ramp-up |  |
 
 Tags: #ActivityMap 
