@@ -1,6 +1,7 @@
-# The Mark
+<img src='https://media-exp1.licdn.com/dms/image/C4E1BAQE40d2fy5Nvhg/company-background_10000/0/1604055752551?e=1605970800&v=beta&t=0lPlvsX2xWR9lCXhVwsvuvbZSbaN33L3tuKR4oIZc44' height='128' alt='Academy' aria-label='Academy' />
 
-This repository maps out the (work-in-progress) curriculum for **The Mark**, the pre-employment 16-week training phase of [Academy](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2)'s two-year programme.
+# The Mark: Curriculum 
+This repository maps out the (work-in-progress) curriculum for **The Mark**, the pre-employment 16-week training phase of [Academy](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2)'s two-year [graduate programme](https://www.notion.so/Graduate-Programme-Building-early-career-tech-leaders-fd95d2f498814a50af004ce7279f63c7).
 
 We’re making a high-impact career in technology more accessible than ever before, unleashing the potential of those who deserve to go further, faster. ([Read more about our mission here.](https://www.notion.so/Mission-Aligning-talent-opportunity-and-equity-f91a35220e3e4b659563c1a6198d938c))
 
@@ -10,7 +11,21 @@ We welcome all of the following:
 - Usage, with attribution, of our materials
 - Contributions and feedback
 
-![](graph-view.png?raw=true)
+## Goals
+![](outcome-map.png?raw=true)
+
+We aim with our curriculum to provide a map (and roadmap) by which someone can go from 'zero coding experience' to the competencies of an associate/junior software engineer.
+
+Of course, this doesn't _nearly_ exhaust the field of software engineering.
+
+Our goal is to get someone to that initial position, where they are ready to learn more and get things done in a real business context:
+- **Prepared for large codebases.** They'll have previously been thrown into a large unknown codebase.
+- **Prepared for real projects.** They'll have completed tickets, pull requests and deployments.
+- **Prepared for communication.** They'll have given and received feedback, pair programmed and worked in teams.
+- **Prepared for modern stacks.** They'll have worked with React, TypeScript and PostgreSQL.
+- **Prepared to learn more.** They'll have built up concepts, vocabulary and skills in full-stack, functional and OO development.
+- **Prepared for reality.** They'll have done a *lot* of Googling, testing and debugging.
+
 [Video: graph structure of our curriculum](https://www.loom.com/share/3106d6740b624831b49813343e82275c?sharedAppSource=personal_library)
 
 ## Getting started
@@ -38,7 +53,7 @@ There are two suggested modes of navigation:
 1. Via graph view - `Option + <click>` to navigate to a node of interest
 2. From this `README.md` - `Cmd + <click>` to navigate to a linked page of interest
 
-## Contents
+## Usage
 This repository contains:
 
 | Map name | Description | Suggested filter when viewing graph* |
