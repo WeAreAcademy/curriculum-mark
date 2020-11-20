@@ -2,9 +2,9 @@
 
 This repository maps out the (work-in-progress) curriculum for **The Mark**, the pre-employment 16-week training phase of [Academy](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2)'s two-year programme.
 
-We’re making a high-impact career in technology more accessible than ever before, unleashing the potential of those who deserve to go further, faster.
+We’re making a high-impact career in technology more accessible than ever before, unleashing the potential of those who deserve to go further, faster. ([Read more about our mission here.](https://www.notion.so/Mission-Aligning-talent-opportunity-and-equity-f91a35220e3e4b659563c1a6198d938c))
 
-In line with this, we're open-sourcing this curriculum ([read more about this decision here](https://www.notion.so/Curriculum-Optimising-for-industry-and-employer-needs-f3da2eeea06e48b7872cf25c00c3026a)), under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+In line with this, we're open-sourcing this curriculum, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). ([Read more about why we're open-sourcing here.](https://www.notion.so/Curriculum-Optimising-for-industry-and-employer-needs-f3da2eeea06e48b7872cf25c00c3026a))
 
 We welcome all of the following:
 - Usage, with attribution, of our materials
