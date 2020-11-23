@@ -1,15 +1,29 @@
 <a href='https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2' target='_blank'><img src='https://media-exp1.licdn.com/dms/image/C4E1BAQE40d2fy5Nvhg/company-background_10000/0/1604055752551?e=1605970800&v=beta&t=0lPlvsX2xWR9lCXhVwsvuvbZSbaN33L3tuKR4oIZc44' height='128' alt='Academy' aria-label='Academy' /></a>
 
 # The Mark: Curriculum 
-This repository maps out the (work-in-progress) curriculum for **The Mark**, the pre-employment 16-week training phase of [Academy](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2)'s [two-year graduate programme](https://www.notion.so/Graduate-Programme-Building-early-career-tech-leaders-fd95d2f498814a50af004ce7279f63c7).
+This repository contains the open-source software engineering curriculum for **The Mark**, the pre-employment 16-week training phase of Academy's [two-year graduate programme](https://www.notion.so/Graduate-Programme-Building-early-career-tech-leaders-fd95d2f498814a50af004ce7279f63c7).
 
-We’re making a high-impact career in technology more accessible than ever before, unleashing the potential of those who deserve to go further, faster. ([Read more about our mission here.](https://www.notion.so/Mission-Aligning-talent-opportunity-and-equity-f91a35220e3e4b659563c1a6198d938c))
+> 🚨 **You're viewing work-in-progress! Please treat it as highly unstable.** 🚧
+> Significant changes are expected over the next 3-6 months as we co-create, test and iterate on it with our Founding Cohorts. ([We're recruiting!](https://www.notion.so/Join-us-2e1e41fbe63d49238805a440dacf6f6d))
 
-In line with this, we're open-sourcing this curriculum, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). ([Read more about why we're open-sourcing here.](https://www.notion.so/Curriculum-Optimising-for-industry-and-employer-needs-f3da2eeea06e48b7872cf25c00c3026a))
-
-We welcome all of the following:
+Under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), we welcome all of the following:
 - Usage, with attribution, of our materials
-- Contributions and feedback
+- Feedback and contributions
+
+## Academy
+[Academy](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2) is making a high-impact career in technology more accessible than ever before, unleashing the potential of those who deserve to go further, faster.
+
+Introducing the launchpad for a fast-growth career in tech: a new graduate scheme that combines world class technology and leadership training with a career fast-track inside leading tech companies.
+
+## Our curriculum
+Our Graduate Programme is split into two main sections:
+1. **The Mark** - 16 weeks of pre-employment training
+2. **The Track** - 21 months of training concurrent with full-time employment
+
+This repository contains the curriculum for *The Mark*. The goal is to provide a foundation of competencies for an associate/junior software engineering role.
+
+[Read more about our curriculum goals here.](Goals.md)
+
 
 ## FAQs
 - [Who are Academy?](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2)
@@ -17,7 +31,7 @@ We welcome all of the following:
 - [Why are you open-sourcing the curriculum?](https://www.notion.so/Curriculum-Optimising-for-industry-and-employer-needs-f3da2eeea06e48b7872cf25c00c3026a)
 - [How can I contribute?](CONTRIBUTING.md)
 
-![](outcome-map.png?raw=true)
+![](assets/outcome-map.png?raw=true)
 
 [Goals](goals.md)
 
