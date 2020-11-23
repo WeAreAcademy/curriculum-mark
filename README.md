@@ -65,7 +65,7 @@ There are two suggested modes of navigation:
 1. Via graph view - `Option + <click>` to navigate to a node of interest
 2. Via note view - `Cmd + <click>` to navigate to a linked page of interest
 
-[Readm more on usage here.](USAGE.md)
+[Read more on usage here.](USAGE.md)
 
 
 ## FAQs
