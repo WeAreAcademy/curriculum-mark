@@ -1,4 +1,6 @@
 # Outcome Map
+*(Open me in Obsidian)*
+
 The Outcome is a graph of time-unbounded modules to learning outcomes (via topics and sub-topics).
 
 ## Navigation

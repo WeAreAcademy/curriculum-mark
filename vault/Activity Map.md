@@ -1,4 +1,6 @@
 # Activity Map
+*(Open me in Obsidian)*
+
 The Activity Map is a graph of time-bounded weekly themes to learning outcomes (via sub-themes and challenges).
 
 ## Navigation
