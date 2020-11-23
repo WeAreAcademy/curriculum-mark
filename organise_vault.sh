@@ -8,5 +8,5 @@ mv *.md "$starting_dir/vault"
 
 # Move core docs back
 cd ./vault
-mv README.md CONTRIBUTIONS.md Goals.md $starting_dir
+mv README.md CONTRIBUTIONS.md GOALS.md USAGE.md $starting_dir
 cd $starting_dir

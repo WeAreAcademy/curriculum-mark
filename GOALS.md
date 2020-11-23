@@ -1,6 +1,6 @@
 # Curriculum Goals
 
-We aim with our curriculum to provide a map (and roadmap) by which someone can go from 'zero coding experience' to the competencies of an associate/junior software engineer.
+We aim with our curriculum for The Mark to provide a roadmap by which someone can go from 'zero coding experience' to the competencies of an associate/junior software engineer.
 
 Of course, this doesn't _nearly_ exhaust the field of software engineering.
 
