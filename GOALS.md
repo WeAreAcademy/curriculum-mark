@@ -1,7 +1,9 @@
 # Curriculum Goals
-> 🧩 **An incomplete view**
+> 🧩 **An incomplete view** - 
 > 
-> This repository presents an extremely partial view of Academy's Graduate Programme: it is limited to the *Technology* pillar of *The Mark*, i.e. the 16 week pre-employment training in software engineering. It therefore excludes: both (a) the 21 months of *The Track* that runs concurrently with employment; and (b) the *Leadership* and *Performance* pillars of the programme.
+> This repository presents an extremely partial view of Academy's Graduate Programme: it is limited to the *Technology* pillar of *The Mark*, i.e. the 16 week pre-employment training in software engineering.
+> 
+> The scope of these goals therefore excludes both: (a) the 21 months of *The Track* that runs concurrently with employment; and (b) the *Leadership* and *Performance* pillars of the programme.
 
 Within the Technology pillar for The Mark, we aim to provide the competencies, roadmap and processes which can take someone to 'ready to start their first role as an associate/junior software engineer'.
 

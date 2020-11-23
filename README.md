@@ -3,12 +3,15 @@
 # The Mark: Curriculum 
 This repository contains the open-source software engineering curriculum for **The Mark**, the pre-employment 16-week training phase of Academy's [two-year graduate programme](https://www.notion.so/Graduate-Programme-Building-early-career-tech-leaders-fd95d2f498814a50af004ce7279f63c7).
 
-> 🚨 **You're viewing work-in-progress! Please treat it as highly unstable.** 🚧
-> Significant changes are expected over the next 3-6 months as we co-create, test and iterate on it with our Founding Cohorts. ([We're recruiting!](https://www.notion.so/Join-us-2e1e41fbe63d49238805a440dacf6f6d))
-
 Under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), we welcome all of the following:
 - Usage, with attribution, of our materials
-- Feedback and contributionsAd
+- Feedback and contributions
+
+> 🚨 **You're viewing work-in-progress! Please treat it as highly unstable.** 🚧
+> 
+> Significant changes are expected over the next 3-6 months as we co-create, test and iterate on it with our Founding Cohorts. As such, content within should be taken as *indicative of direction*, but not as conclusively settled or finalised.
+> 
+> If you'd like to shape our curriculum - you can! [We're recruiting](https://www.notion.so/Join-us-2e1e41fbe63d49238805a440dacf6f6d), both for Founding Cohort members and Faculty Software Engineers, and we welcome [contributions](CONTRIBUTIONS.md) from the software engineering community.
 
 ## Academy
 [Academy](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2) is making a high-impact career in technology more accessible than ever before, unleashing the potential of those who deserve to go further, faster.
