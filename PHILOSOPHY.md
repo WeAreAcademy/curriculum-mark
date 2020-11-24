@@ -15,19 +15,40 @@ We have a few principles. Sometimes, they may conflict, but we take them as guid
 
 | Principle name | Prioritise... | ... over ... |
 | --- | --- | --- |
-| Gift independence | Instruction-light learning | Instruction-heavy learning |
-| Cover fundamentals | Explicit sequencing | Discovery learning |
+| Independence | Instructor-light learning | Instructor-heavy learning |
+| Adaptability | Ideas | Syntax |
 
-### Gift independence
-In our context, we support Scholars into and during their employment - and, when they start work, they need to have an independence from us. We will have failed them if they need constant supervision and direction from us.
+### Independence
+Working as a software engineer means working in a team (you're not an isolated silo) but it _also_ means being able to try figuring things out by yourself.
 
-As such, we *prioritise instruction-light learning over instruction-heavy learning*.
+Our goal is to prepare Scholars to have that independence.
+
+As such, we *prioritise instructor-light learning over instructor-heavy learning*.
 
 To us, this means things like:
-- Prioritise building activities ('try this') over lesson scripts ('listen to us explaining this')
-- Design activities to be supplemented by Google instead of being entirely standalone
+- We prefer to build activities ('try this exercise on inheritance') over lesson scripts ('listen to us talking about inheritance')
+- We design activities to be supplemented by Google instead of being entirely standalone
+
+But it _doesn't_ mean that:
+- We provide no explanations - instead, we're careful that these don't replace activities
+- We provide no materials - instead, we're careful that we also build the muscle of 'finding and parsing information'
+
+### Adaptability
+Working as a software engineer means learning new languages, libraries and frameworks, and transfering the concepts between them.
+
+Our goal is to prepare Scholars to have that adaptability.
+
+As such, we *prioritise ideas over syntax*.
+
+To us, this means things like:
+- We pick a curriculum language for the sake of a common vocabulary, rather than for the sake of "we are learning JavaScript"
+
+But it _doesn't_ mean that:
+- We entirely ignore syntax - instead, we're trying to cultivate "we're covering higher-order functions, and we _happen_ to be using JavaScript, but _the idea is transferable_"
 
 ### Cover fundamentals
+
+
 In our context, we have 16 weeks with Scholars before they start employment - and, when they start work, we want them to have covered the fundamentals. We will have failed them if they have never used a version control system.
 
 As such, we *prioritise explicit sequencing over discovery learning*.
