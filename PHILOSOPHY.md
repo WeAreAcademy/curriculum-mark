@@ -11,15 +11,17 @@ In the particular [Academy](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b
 [Read more about Academy's Graduate Programme here.](https://www.notion.so/Graduate-Programme-Building-early-career-tech-leaders-fd95d2f498814a50af004ce7279f63c7)
 
 ## Our approach
-We have a few principles. Sometimes, they may conflict, but we take them as guiding thoughts and try to deal sensibly with conflcits where they arise.
+We have a few principles that we try to adhere to. There can be a tension between some of these, but we take them as guiding thoughts and try to deal sensibly with conflicts where they arise.
 
 | Principle name | Prioritise... | ... over ... |
 | --- | --- | --- |
 | Independence | Instructor-light learning | Instructor-heavy learning |
 | Adaptability | Ideas | Syntax |
+| Toolkitting | Explicit exposure | Implicit osmosis |
+| Conventions | Opinionated practice | Implementation indifference |
 
 ### Independence
-Working as a software engineer means working in a team (you're not an isolated silo) but it _also_ means being able to try figuring things out by yourself.
+Working as a software engineer means working in a team (you're not an isolated silo) but it _also_ means being teaching yourself new things.
 
 Our goal is to prepare Scholars to have that independence.
 
@@ -46,12 +48,23 @@ To us, this means things like:
 But it _doesn't_ mean that:
 - We entirely ignore syntax - instead, we're trying to cultivate "we're covering higher-order functions, and we _happen_ to be using JavaScript, but _the idea is transferable_"
 
-### Cover fundamentals
+### Toolkitting
+Working as a software engineer means building on prior art using a toolkit of patterns, rather than perpetually inventing, creating or discovering things yourself.
 
+Our goal is to prepare Scholars to have that toolkit to build on prior art.
 
-In our context, we have 16 weeks with Scholars before they start employment - and, when they start work, we want them to have covered the fundamentals. We will have failed them if they have never used a version control system.
-
-As such, we *prioritise explicit sequencing over discovery learning*.
+As such, we *prioritise explicit exposure over implicit osmosis*.
 
 To us, this means things like:
-- Identify important foundational skills (e.g. 'naming variables well') and target them instead of relying on learners picking them up by osmosis
+- We prefer to explicitly introduce mental models (e.g. 'thinking about value equality vs reference equality') where we think they are complex to develop
+- We prefer to explicitly introduce useful skills and standards (e.g. 'how to write a good git commit message') over assuming that they will develop organically
+
+But it _doesn't_ mean that:
+- We provide explicit mental models for _everything_ - instead, we're trying to identify 'high-leverage tools that are commonly hard for a novice to organically discover'
+
+### Conventions
+Working as a software engineer means working within conventions of a team, codebase and language.
+
+Our goal is to prepare Scholars to work with conventions.
+
+As such, we *prioritise opinionated practice over implementation indifference*.
