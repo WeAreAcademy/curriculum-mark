@@ -1,6 +1,9 @@
 <a href='https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2' target='_blank'><img src='https://media-exp1.licdn.com/dms/image/C4E1BAQE40d2fy5Nvhg/company-background_10000/0/1604055752551?e=1606305600&v=beta&t=E6ESvXz6MkdkOPIhC36oODLo96rEaXqP_xYm0AUwRws' height='128' alt='Academy' aria-label='Academy' /></a>
 
 # The Mark: Curriculum 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+
 This repository contains the open-source software engineering curriculum for **The Mark**, the pre-employment 16-week training phase of Academy's [two-year graduate programme](https://www.notion.so/Graduate-Programme-Building-early-career-tech-leaders-fd95d2f498814a50af004ce7279f63c7).
 
 Under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/), we welcome all of the following:
