@@ -9,6 +9,6 @@ Your task is to read through the coding katas and demonstrate your understanding
 ### Learning outcomes
 - [[Identify useful test cases]]
 - [[Descriptively name tests]]
-- [[Write tests using `assert` in Python]]
+- [[Write tests using `jest` with JavaScript]]
 
 Tags: #Activity, #Challenge, #Exercise
