@@ -2,9 +2,8 @@
 
 - [[Basic types in TypeScript]]
 - [[Interfaces in TypeScript]]
-- [[Functions in TypeScript]]
 - [[Union and intersection types in TypeScript]]
-- [[Generics in TypeScript]]
+- [[Functions in TypeScript]]
 
 
 ## Resources
