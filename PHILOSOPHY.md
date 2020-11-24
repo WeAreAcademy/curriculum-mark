@@ -15,9 +15,9 @@ We have a few principles that we try to adhere to. There can be a tension betwee
 
 | Principle name | Prioritise... | ... over ... |
 | --- | --- | --- |
-| Independence | Instructor-light learning | Instructor-heavy learning |
-| Adaptability | Ideas | Syntax |
-| Toolkitting | Explicit exposure | Implicit osmosis |
+| [Independence](#independence) | Instructor-light learning | Instructor-heavy learning |
+| [Adaptability](#adaptability) | Ideas | Syntax |
+| [Toolkitting](#toolkitting) | Explicit exposure | Implicit osmosis |
 
 ### Independence
 Working as a software engineer means working in a team (you're not an isolated silo) but it _also_ means being teaching yourself new things.
