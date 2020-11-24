@@ -6,7 +6,7 @@ starting_dir=$(pwd)
 # Move markdown files to vault
 mv *.md "$starting_dir/vault"
 
-# Move README back
+# Move core docs back
 cd ./vault
-mv README.md $starting_dir
+mv README.md CONTRIBUTIONS.md GOALS.md USAGE.md $starting_dir
 cd $starting_dir
