@@ -18,7 +18,6 @@ We have a few principles that we try to adhere to. There can be a tension betwee
 | Independence | Instructor-light learning | Instructor-heavy learning |
 | Adaptability | Ideas | Syntax |
 | Toolkitting | Explicit exposure | Implicit osmosis |
-| Conventions | Opinionated practice | Implementation indifference |
 
 ### Independence
 Working as a software engineer means working in a team (you're not an isolated silo) but it _also_ means being teaching yourself new things.
@@ -61,10 +60,3 @@ To us, this means things like:
 
 But it _doesn't_ mean that:
 - We provide explicit mental models for _everything_ - instead, we're trying to identify 'high-leverage tools that are commonly hard for a novice to organically discover'
-
-### Conventions
-Working as a software engineer means working within conventions of a team, codebase and language.
-
-Our goal is to prepare Scholars to work with conventions.
-
-As such, we *prioritise opinionated practice over implementation indifference*.
