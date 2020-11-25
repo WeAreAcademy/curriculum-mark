@@ -1,4 +1,4 @@
-# Match the code output
+# Match the pseudocode
 
 In this challenge, you will match together pseudocode and Python code that should produce equivalent output.
 
@@ -28,13 +28,16 @@ while i <= 5:
 
 ### Learning outcomes
 - [[Read and interpret code written by others]]
-- [[Use basic types in JavaScript]]
-- [[Use basic operators in JavaScript]]
-- [[Use variable declaration and assignment in JavaScript]]
-- [[Manipulate collections in JavaScript]]
-- [[Use control flow in JavaScript]]
-- [[Identify useful test cases]]
-- [[Descriptively name tests]]
-- [[Write tests using `assert` in Python]]
+- [[Identify which lines are evaluated in an `if` and `elif` statement in Python]]
+- [[Use an `if` statement in a function body in Python]]
+- [[Iterate through a string or collection with a `for` loop in Python]]
+- [[Use a `while` loop in Python]]
+- [[Use `break` inside a `for` or `while` loop in Python]]
+- [[Use variable assignment in Python]]
+- [[Read a list item by index in Python]]
+- [[Update a list item by index in Python]]
+- [[Read a dictionary value by key in Python]]
+- [[Update a dictionary value by key in Python]]
+- [[Identify augmented operator syntatic sugar equivalents in Python]]
 
 Tags: #Activity, #Challenge, #Exercise
