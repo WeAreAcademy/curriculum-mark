@@ -6,6 +6,7 @@
 - [[Binary search]]
 - [[Bubble sort]]
 - [[Merge sort]]
+- [[Problem decomposition]]
 - [[Anticipating edge cases]]
 - [[Iterative and recursive conversion]]
 

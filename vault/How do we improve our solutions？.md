@@ -2,5 +2,6 @@
 
 ## Activities
 - [[Cleaning up existing code]]
+- [[Time efficiency]]
 
 Tags: #ActivityMap, #Question, #Theme

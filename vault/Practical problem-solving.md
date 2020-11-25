@@ -9,6 +9,6 @@
 - [[Assertions and testing]]
 - [[Debugging]]
 - [[Refactoring]]
-- [[Search and sort algorithms]]
+- [[Introductory algorithms]]
 
 Tags: #OutcomeMap
