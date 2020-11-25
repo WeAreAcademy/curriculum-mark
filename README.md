@@ -16,6 +16,12 @@ Under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/), we 
 > 
 > If you'd like to shape our curriculum - you can! [We're recruiting](https://www.notion.so/Join-us-2e1e41fbe63d49238805a440dacf6f6d), both for Founding Cohort members and Faculty Software Engineers, and we welcome [contributions](CONTRIBUTIONS.md) from the software engineering community.
 
+**Contents**
+- [Academy](#academy)
+- [Our curriculum](#our-curriculum)
+- [Getting started](#getting-started)
+- [FAQs](#faqs)
+
 ## Academy
 [Academy](https://www.notion.so/Academy-92e6a8b244894a4d9b7d0b785c3d4bd2) is making a high-impact career in technology more accessible than ever before, unleashing the potential of those who deserve to go further, faster.
 
@@ -43,7 +49,7 @@ The goal is to provide a foundation of competencies for an associate/junior soft
 ### Graph structure
 ![](assets/outcome-map.png?raw=true)
 
-We're using a graph structure for our curriculum, as demoed in [this video](https://www.loom.com/share/3106d6740b624831b49813343e82275c?sharedAppSource=personal_library) (although the content is outdated).
+We're using a graph structure for our curriculum, as demoed in [this video](https://www.loom.com/share/3106d6740b624831b49813343e82275c?sharedAppSource=personal_library). (Although the content shown in the video is outdated, it gives an indication of what the graph structure looks like in practice with Obsidian.)
 
 ## Getting started
 This repository contains mostly markdown files which are intended to be opened by as an [Obsidian vault](https://obsidian.md/).
