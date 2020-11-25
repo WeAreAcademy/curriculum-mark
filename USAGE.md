@@ -4,6 +4,7 @@
 - [Contents](#contents)
 	- [Outcome map](#outcome-map)
 	- [Activity map](#activity-map) 
+- [Tags](#tags)
 
 ## Intended audience
 In its current status, we think you are _most_ likely to get _some_ value from this curriculum if you are the approximate equivalent of Academy Faculty - i.e. you are involved in the design or delivery of training for early-career software engineering talent.
@@ -47,7 +48,18 @@ We do this by:
 **Status:** work-in-progress, currently between steps 2 and 3 (theme dependent).
 
 ## Tags
-Tags are used in 
+Tags are used to:
+- make it easier to view useful subsets of the Obsidian graph
+- provide conceptual structure to different types of nodes (e.g. an Activity might be different to a Challenge)
+
+Some of the important tags here are:
+- `$OutcomeMap`
+- `$ActivityMap`
+- `$Activity`
+- `$Challenge`
+- `$LearningOutcome`
+
+*Substitute `#` for `$` in the filters. We avoid using `#` here to avoid attaching these tags to this note itself.*
 
 ---
 
