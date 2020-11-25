@@ -6,9 +6,9 @@ The Activity Map is a graph of time-bounded weekly themes to learning outcomes (
 ## Navigation
 *Substitute `#` for `$` in the below filters. We avoid using `#` here to avoid attaching these tags to this note itself.*
 
-- To show the Activity Map in Obsidian graph view, filter by tag: `$ActivityMap`.
-- To include Challenges as end nodes, set the filter to  `$ActivityMap OR $Challenge`.
-- To see how Challenges connect to Learning Oucomes, set the filter to `$ActivityMap OR $Challenge OR $LearningOutcome`
+- To show the Activity Map in Obsidian graph view, filter by tag: `tag:$ActivityMap`.
+- To include Challenges as end nodes, set the filter to  `tag:$ActivityMap OR $Challenge`.
+- To see how Challenges connect to Learning Oucomes, set the filter to `tag:$ActivityMap OR tag:$Challenge OR tag:$LearningOutcome`
 
 ## Phase One
 **The Mark: Phase One** is part-time, over 4 weeks.

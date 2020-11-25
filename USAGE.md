@@ -1,4 +1,10 @@
 # Usage
+
+- [Intended audience](#intended-audience)
+- [Contents](#contents)
+	- [Outcome map](#outcome-map)
+	- [Activity map](#activity-map) 
+
 ## Intended audience
 In its current status, we think you are _most_ likely to get _some_ value from this curriculum if you are the approximate equivalent of Academy Faculty - i.e. you are involved in the design or delivery of training for early-career software engineering talent.
 
@@ -9,9 +15,9 @@ This repository contains:
 
 | Resource | Description | Suggested filter when viewing graph* |
 | --- | --- | --- |
-| Learning Outcomes | individual learning outcomes that are intended to be atomic | `$LearningOutcome` |
-| **[[Outcome Map]]** | a graph of time-unbounded modules to learning outcomes (via topics and sub-topics) | `$OutcomeMap OR $LearningOutcome` |
-| **[[Activity Map]]** | a graph of time-bounded weekly themes to learning outcomes (via sub-themes and challenges) | `$ActivityMap OR $Challenge OR $LearningOutcome` |
+| Learning Outcomes | individual learning outcomes that are intended to be atomic | `tag:$LearningOutcome` |
+| **[[Outcome Map]]** | a graph of time-unbounded modules to learning outcomes (via topics and sub-topics) | `tag:$OutcomeMap OR tag:$LearningOutcome` |
+| **[[Activity Map]]** | a graph of time-bounded weekly themes to learning outcomes (via sub-themes and challenges) | `tag:$ActivityMap OR tag:$Challenge OR tag:$LearningOutcome` |
 
 *\*Substitute `#` for `$` in the filters. We avoid using `#` here to avoid attaching these tags to this note itself.*
 
@@ -39,6 +45,9 @@ We do this by:
 4. Filling out activity instructions and related resources
 
 **Status:** work-in-progress, currently between steps 2 and 3 (theme dependent).
+
+## Tags
+Tags are used in 
 
 ---
 
