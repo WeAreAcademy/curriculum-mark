@@ -49,7 +49,7 @@ The goal is to provide a foundation of competencies for an associate/junior soft
 ### Graph structure
 ![](assets/outcome-map.png?raw=true)
 
-We're using a graph structure for our curriculum, as demoed in [this video](https://www.loom.com/share/3106d6740b624831b49813343e82275c?sharedAppSource=personal_library) (although the content is outdated).
+We're using a graph structure for our curriculum, as demoed in [this video](https://www.loom.com/share/3106d6740b624831b49813343e82275c?sharedAppSource=personal_library). (Although the content shown in the video is outdated, it gives an indication of what the graph structure looks like in practice with Obsidian.)
 
 ## Getting started
 This repository contains mostly markdown files which are intended to be opened by as an [Obsidian vault](https://obsidian.md/).
